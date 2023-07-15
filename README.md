@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ChannMyaeAung. You can call me Chan.
+- 👋 Hi, I’m Chan Myae Aung. I am a Burmese developer.
 - 👀 I’m interested in programming, video editing, writing things, and playing games etc.
 - 🌱 I’m currently learning Front-end Development.
 - 💞️ I’m looking to collaborate on any kind of internship which will get me necessary experience to jump into the professional IT industry.
