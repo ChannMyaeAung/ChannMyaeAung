@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Chan Myae Aung. I am a Burmese developer.
-- 👀 I’m interested in programming, video editing, writing things, and playing games etc.
-- 🌱 I’m currently learning Front-end Development.
-- 💞️ I’m looking to collaborate on any kind of internship which will get me necessary experience to jump into the professional IT industry.
-- 📫 How to reach me --> email: chanmyaeaung@my.jcu.edu.au, chanaung48944@gmail.com 
+Hello, World! 👋
+Welcome to my GitHub profile! I'm Chan Myae Aung, a passionate front-end developer striving to create beautiful and functional web experiences. Here's a little about me:
 
-<!---
-ChannMyaeAung/ChannMyaeAung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I specialize in crafting intuitive and responsive user interfaces using HTML, CSS, and JavaScript.
+🌐 I enjoy working with modern frameworks and libraries like React, and NextJS.
+🎨 I have an eye for design and love turning creative ideas into code.
+🌱 I'm constantly learning and exploring new technologies to enhance my skill set.
+💬 Let's collaborate on front-end projects or discuss innovative ideas!
+
+🛠️ Tech Stack:
+HTML5 & CSS3
+JavaScript (ES6+)
+React.js and its related Tech (Redux, React Router DOM, TanStack Query)
+Bootstrap / Tailwind CSS
+Git / GitHub
+📫 You can reach me at chanmyaeaung@my.jcu.edu.au and chanaung48944@gmail.com.
+
+
+Feel free to check out my repositories and projects. I'm open to collaborations and eager to contribute to impactful web development endeavors!
+
+Thanks for visiting! 🌟
+
