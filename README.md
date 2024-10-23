@@ -17,7 +17,7 @@ Git / GitHub
 
 Kindly visit my profile on iCodeThis.com to check and explore the things I have built : https://icodethis.com/Chan_Myae_Aung
 
-Lately, I have beening learning C language and actually enjoying it.
+Lately, I have beening learning C language & databases (MongoDB & Supabase) and actually enjoying the process.
 
 Feel free to check out my repositories and projects. I'm open to collaborations and eager to contribute to impactful web development endeavors!
 
