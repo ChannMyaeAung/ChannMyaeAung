@@ -9,7 +9,9 @@ I craft responsive, user-friendly interfaces and also dive into back-end systems
 
 Front-end: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, React Router, TanStack Query, Tailwind CSS, Bootstrap, Shadcn UI
 
-Back-end / Systems: Golang, C (basics), Docker
+Back-end / Systems: Golang, C (basics), Node.js, Express.js, Python (FastAPI)
+
+Containerization: Docker
 
 Databases & ORM: MongoDB, MySQL, PostgreSQL, Supabase, Prisma, Neon
 
